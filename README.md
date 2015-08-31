@@ -8,18 +8,18 @@ Cómo Jugar
 2º Teclas
    ------
 
-ESCAPE - Mantén pulsado para salir del juego en cualquier momento
-ESPACIO - Disparar en modos Fácil y Normal (es necesario estar parado)
-CLICK IZQDO - Disparar en modo Difícil
-TECLAS DIRECCIÓN - Movimiento del personaje
-'A' y 'D' - Movimiento del personaje
+- ESCAPE - Mantén pulsado para salir del juego en cualquier momento
+- ESPACIO - Disparar en modos Fácil y Normal (es necesario estar parado)
+- CLICK IZQDO - Disparar en modo Difícil
+- TECLAS DIRECCIÓN - Movimiento del personaje
+- 'A' y 'D' - Movimiento del personaje
 
-'I' - Cambiar de arma*
-'o' - Generar nuevas bolas*
-'P' - Activar Modo Programador (muestra las máscaras y estado de variables)*
-'-' y '+' - Disminuye o aumenta la velocidad de juego, exceptuando el tiempo. 
+- 'I' - Cambiar de arma
+- 'o' - Generar nuevas bolas
+- 'P' - Activar Modo Programador (muestra las máscaras y estado de variables)
+- '-' y '+' - Disminuye o aumenta la velocidad de juego, exceptuando el tiempo. 
 
-	*Estas 4 últimas teclas se pueden desactivar comentando 4 líneas del
+	Estas 4 últimas teclas se pueden desactivar comentando 4 líneas del
 	código, dentro del main:
 		GenerarBolaAleatoriaTecla()
 		CambiarModoDisparo()
@@ -31,12 +31,12 @@ Modos de Juego
 
 El juego tiene a elegir 6 modos de juego:
 
-Survivor - Sin límite de tiempo, hasta que se acaben las 3 vidas disponibles
-Time Survivor - Con límite de tiempo 2 min. y límite de 3 vidas
+- Survivor - Sin límite de tiempo, hasta que se acaben las 3 vidas disponibles
+- Time Survivor - Con límite de tiempo 2 min. y límite de 3 vidas
 
-Fácil - Emplea el tipo de disparo similar a una cuerda (límite de 2)
-Normal - Emplea el tipo de disparo similar a balas (límite de 8)
-Difícil - Emplea el cursor y click izquierdo como disparo 
+- Fácil - Emplea el tipo de disparo similar a una cuerda (límite de 2)
+- Normal - Emplea el tipo de disparo similar a balas (límite de 8)
+- Difícil - Emplea el cursor y click izquierdo como disparo 
 
 Records
 =======
@@ -70,5 +70,5 @@ Para ello copie cualquiera de las carpetas con número y modifique lo que desee.
 Luego cambiele el nombre al siguiente número en la serie.
 ¡Aparecerá automáticamente en el menú de inicio!
 
-
+------------------------------------
 Lin M. Dotor © 2010

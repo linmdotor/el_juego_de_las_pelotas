@@ -1,7 +1,6 @@
 # El juego de las pelotas
 
-<img src="./screenshots/screen_01.png"  width="320"> <img src="./screenshots/screen_02.png"  width="320">
-<img src="./screenshots/screen_03.png"  width="320"> <img src="./screenshots/screen_ProgrammerMode.png"  width="320">
+<img src="./screenshots/screen_01.png"  width="320">
 
 Cómo Jugar
 ==========
@@ -28,6 +27,9 @@ Cómo Jugar
 		CambiarModoDisparo()
 		CambiarModoProgramador()
 		ModificarRetardo()
+
+Modo programador:
+<img src="./screenshots/screen_ProgrammerMode.png"  width="320">
 
 Modos de Juego
 ============== 
@@ -72,6 +74,8 @@ Dentro, los archivos deben conservar el mismo nombre de archivo que el original,
 Para ello copie cualquiera de las carpetas con número y modifique lo que desee.
 Luego cambiele el nombre al siguiente número en la serie.
 ¡Aparecerá automáticamente en el menú de inicio!
+
+<img src="./screenshots/screen_02.png"  width="320"> <img src="./screenshots/screen_03.png"  width="320">
 
 ------------------------------------
 Lin M. Dotor © 2010

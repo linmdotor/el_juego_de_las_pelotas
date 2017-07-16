@@ -1,9 +1,9 @@
 # El juego de las pelotas
 
-![Screenshot1](\screenshots\screen_01.png)
-![Screenshot2](\screenshots\screen_02.png)
-![Screenshot3](\screenshots\screen_03.png)
-![ScreenshotProgrammerMode](\screenshots\screen_ProgrammerMode.png)
+![Screenshot1](./screenshots/screen_01.png)
+![Screenshot2](./screenshots/screen_02.png)
+![Screenshot3](./screenshots/screen_03.png)
+![ScreenshotProgrammerMode](./screenshots/screen_ProgrammerMode.png)
 
 Cómo Jugar
 ==========
